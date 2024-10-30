@@ -7,6 +7,18 @@ This study aims to elucidate the evolutionary relationships among various bat sp
 
 **Methods**
 For the phylogenetic analysis, 12 species of bats were selected. Data on opsin sequences (OPN1SW) were obtained from the GenBank database (https://www.ncbi.nlm.nih.gov/popset/1524845346). The house mouse (Mus musculus) was used as the outgroup. Various types of opsins, including rhodopsin and cone pigments, have been well studied in mice.
+Cave bats: 1. MH664057.1_Barbastella_barbastel - cave bat.
+2. MH664059.1_Casinycteris_argynnis - may live in caves.
+3. MH664060.1_Craseonycteris_thongl - may be found in caves.
+4. MH664062.1_Desmodus_rotundus_sho - vampire bat, lives in caves.
+Non-cave bats: 1. MH664055.1_Anoura_geoffroyi_shor - lives in open habitats.
+2. MH664056.1_Balionycteris_maculat - lives in various ecosystems.
+3. MH664058.1_Cardioderma_cor_vouch - found in open conditions.
+4. MH664061.1_Cynopterus_sphinx_sho - most often in open spaces.
+5. MH664063.1_Dyacopterus_rickarti_ - can live in good conditions.
+6. MH664064.1_Epomophorus_wahlbergi - prefer open forests.
+7. MH664065.1_Epomops_franqueti_vou - lives in forested areas.
+8. MH664066.1_Furipterus_horrens_sh - prefer open areas.
 Sequences were assembled and aligned in FASTA format. Sequence alignment was performed using the MAFFT program.
 The phylogenetic tree was constructed using two different methods: the distance method (maximum likelihood) and Bayesian analysis.
 1.	Distance Method: The IQ-TREE software package was used for analysis. The analysis was performed with 1,000 bootstrap replicates to assess branch reliability in the tree.
